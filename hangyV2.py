@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 
-"""Hangman"""
+"""
+
+Hangman
+
+this python file will be the logic behind the visual version of the hangman game.
+
+"""
 
 import random
 
